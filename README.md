@@ -1,4 +1,4 @@
- 🧠 Rubik's Cube Solver using CSP (Constraint Satisfaction Problem)
+# 🧠 Rubik's Cube Solver using CSP (Constraint Satisfaction Problem)
 
 A Python-based Rubik’s Cube solver that applies **Artificial Intelligence** techniques like **Backtracking** and **Forward Checking** to find valid cube states using **Constraint Satisfaction Problem (CSP)** modeling.
 
@@ -6,7 +6,7 @@ A Python-based Rubik’s Cube solver that applies **Artificial Intelligence** te
 
 ---
 
-🚀 Features
+## 🚀 Features
 
 - ✅ CSP modeling of the Rubik’s Cube
 - 🔁 Backtracking search for solution exploration
@@ -15,7 +15,7 @@ A Python-based Rubik’s Cube solver that applies **Artificial Intelligence** te
 
 ---
 
-📘 What is CSP?
+## 📘 What is CSP?
 
 A **Constraint Satisfaction Problem (CSP)** is a mathematical question defined by:
 - A set of variables
@@ -29,7 +29,7 @@ A **Constraint Satisfaction Problem (CSP)** is a mathematical question defined b
 
 ---
 
-🧠 How It Works
+## 🧠 How It Works
 
 1. **Represent the Cube** in a simplified data structure
 2. **Apply Backtracking** to explore possible color assignments
@@ -45,7 +45,12 @@ A **Constraint Satisfaction Problem (CSP)** is a mathematical question defined b
 
 ---
 
-▶️ Run the Project
+## ▶️ Run the Project
 
 ```bash
 python rubiks_cube_csp_solver.py
+
+
+📁 RubiksCubeCSP/
+├── rubiks_cube_csp_solver.py   # 💡 All logic and solver code in one file
+├── README.md                   # 📘 You are here!
